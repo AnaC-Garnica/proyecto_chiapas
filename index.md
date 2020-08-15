@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ¿Por qué Chiapas es el estado con menor incidencia de casos de COVID-19?
 
 You can use the [editor on GitHub](https://github.com/AnaC-Garnica/proyecto_chiapas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
