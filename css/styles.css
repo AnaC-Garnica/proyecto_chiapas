@@ -213,7 +213,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #3fc674;
   text-align: left;
   caption-side: bottom;
 }
@@ -1735,21 +1735,21 @@ pre code {
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #edd2c7;
+  background-color: #94db9f;
 }
 .table-primary th,
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #ddab98;
+  border-color: #74d190;
 }
 
 .table-hover .table-primary:hover {
-  background-color: #e7c2b4;
+  background-color: "93da92;
 }
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #e7c2b4;
+  background-color: #95db97;
 }
 
 .table-secondary,
@@ -1765,7 +1765,7 @@ pre code {
 }
 
 .table-hover .table-secondary:hover {
-  background-color: #c8cbcf;
+  background-color: #b3b7bb;
 }
 .table-hover .table-secondary:hover > td,
 .table-hover .table-secondary:hover > th {
